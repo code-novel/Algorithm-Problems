@@ -8,7 +8,6 @@ public class Main_17136_색종이붙이기 {
 	public static int map[][]=new int[10][10];
 	public static int min=100;
 	public static int max[]=new int[6];
-	
 	public static void main(String[] args) throws IOException {
 		// TODO Auto-generated method stub
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
