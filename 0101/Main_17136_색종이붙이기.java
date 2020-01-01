@@ -4,7 +4,6 @@ import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
 public class Main_17136_색종이붙이기 {
-
 	public static int map[][]=new int[10][10];
 	public static int min=100;
 	public static int max[]=new int[6];
