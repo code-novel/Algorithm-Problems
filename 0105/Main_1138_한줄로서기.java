@@ -3,6 +3,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
+
 public class Main_1138_한줄로서기{
 
 	public static void main(String[] args) throws NumberFormatException, IOException {
