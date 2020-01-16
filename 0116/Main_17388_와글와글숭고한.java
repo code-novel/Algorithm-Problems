@@ -14,6 +14,7 @@ public class Main_17388_와글와글숭고한{
 			System.out.println(min(S,K,H));
 		}
 	}
+	
 	public static String min(int s, int k, int h) {
 		if(s<k&&s<h) {
 			return "Soongsil";
