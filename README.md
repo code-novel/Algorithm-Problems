@@ -58,6 +58,7 @@
 >
 >   * 시뮬레이션(Simulation)
 >       * :3rd_place_medal::two: [1592 영식이와친구들](BAEKJOON/Main_1592_영식이와친구들.java)
+>       * :2nd_place_medal::one: [14891 톱니바퀴](BAEKJOON/Main_14891_톱니바퀴.java)
 >       * :1st_place_medal::one: [3025 돌던지기](BAEKJOON/Main_3025_돌던지기.java)
 >
 >   * 그리디 알고리즘(Greedy Algorithm)
