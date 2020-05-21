@@ -1,6 +1,8 @@
 # Algorithm 정리
-
-# 1day1commit
+---
+## 1. 기본 알고리즘
+---
+## 1day1commit
 2020 1day 1commit
 0101 17136_색종이붙이기
 0102 2606_바이러스
