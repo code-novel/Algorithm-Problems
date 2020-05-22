@@ -1,6 +1,14 @@
 # Algorithm 정리
 ---
 ## 1. 기본 알고리즘
+* [뭐했더라?](#1day1commit)
+* 일단은
+* 정리를
+---
+## 2. JAVA 자료구조(알고리즘용)
+* [뭐했더라?](#1day1commit)
+* 일단은
+* 정리를
 ---
 ## 1day1commit
 2020 1day 1commit
