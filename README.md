@@ -179,6 +179,8 @@
 >* 0602
 >* 0603
 >* 0604
+>* 0605
+>* 0606
 
 ### 정렬
 
@@ -224,10 +226,12 @@ private static void sort(int[] number) {
 	static void make() { // make set : 모든 원소를 개별적인 집합으로 생성
 		Arrays.fill(parents, -1);
 	}
+
 	static int find(int a) {
 		if(parents[a]<0) return a; // 자신이 루트이면 자신 리턴
 		return parents[a] = find(parents[a]);
 	}
+
 	static boolean union(int a,int b) {
 		int aRoot = find(a);
 		int bRoot = find(b);
