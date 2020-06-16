@@ -1,9 +1,15 @@
 
 ## 4. 1day1commit
 ### 2020 1day 1commit
-:gem: ':gem:'
+
+:gem: `:gem:` DIAMOND  
+:trophy: `:trophy:` PLATINUM  
+:1st_place_medal: `:1st_place_medal:` GOLD
+:2nd_place_medal: `:2nd_place_medal:` SILVER
+:3rd_place_medal: `:3rd_place_medal:` BRONZE
+
 >* BAEKJOON
->   * :gold:3[17136_색종이붙이기](BAEKJOON/Main_17136_색종이붙이기.java)
+>   * :1st_place_medal:3 [17136_색종이붙이기](BAEKJOON/Main_17136_색종이붙이기.java)
 >   * [2606_바이러스](BAEKJOON/Main_2606_바이러스.java)
 >   * [14502_연구소](BAEKJOON/Main_14502_연구소.java)
 >   * [14889_스타트와링크](BAEKJOON/Main_14889_스타트와링크.java)
