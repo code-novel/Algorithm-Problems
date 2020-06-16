@@ -4,9 +4,14 @@
 
 :gem: `:gem:` DIAMOND  
 :trophy: `:trophy:` PLATINUM  
-:1st_place_medal: `:1st_place_medal:` GOLD
-:2nd_place_medal: `:2nd_place_medal:` SILVER
-:3rd_place_medal: `:3rd_place_medal:` BRONZE
+:1st_place_medal: `:1st_place_medal:` GOLD  
+:2nd_place_medal: `:2nd_place_medal:` SILVER  
+:3rd_place_medal: `:3rd_place_medal:` BRONZE  
+:one: `:one:` 1  
+:two: `:two:` 2  
+:three: `:three:` 3  
+:four: `:four:` 4  
+:five: `:five:` 5 
 
 >* BAEKJOON
 >   * :1st_place_medal:3 [17136_색종이붙이기](BAEKJOON/Main_17136_색종이붙이기.java)
