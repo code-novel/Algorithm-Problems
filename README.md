@@ -26,6 +26,7 @@
 >       * :2nd_place_medal::two: [1012 유기농배추](BAEKJOON/Main_1012_유기농배추.java)
 >       * :1st_place_medal::five: [14502 연구소](BAEKJOON/Main_14502_연구소.java)
 >       * :1st_place_medal::four: [2573 빙산](BAEKJOON/Main_2573_빙산.java)
+>       * :trophy::five: [1113 수영장 만들기](BAEKJOON/Main_1113_수영장만들기.java)
 >
 >   * 서로소 집합(Disjoint-Set)
 >       * :2nd_place_medal::three: [2606 바이러스](BAEKJOON/Main_2606_바이러스.java)
@@ -66,6 +67,7 @@
 >       * :3rd_place_medal::four: [17388 와글와글숭고한](BAEKJOON/Main_17388_와글와글숭고한.java)
 >       * :3rd_place_medal::three: [17945 통학의신](BAEKJOON/Main_17945_통학의신.java)
 >       * :3rd_place_medal::three: [18247 겨울왕국티켓예매](BAEKJOON/Main_18247_겨울왕국티켓예매.java)
+>       * :3rd_place_medal::two: [1075 나누기](BAEKJOON/Main_1075_나누기.java)
 >       * :3rd_place_medal::two: [17946 피자는나눌수록커지잖아요](BAEKJOON/Main_17946_피자는나눌수록커지잖아요.java)
 >
 >   * 구현

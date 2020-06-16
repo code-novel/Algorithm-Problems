@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class Main_1026_보물 {
 	public static void main(String args[]) {
 		Scanner s=new Scanner(System.in);
 		int N=s.nextInt();
