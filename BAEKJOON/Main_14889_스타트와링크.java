@@ -1,5 +1,3 @@
-package com.ssafy.hw;
-
 import java.util.Scanner;
 
 public class Main_14889_스타트와링크 {

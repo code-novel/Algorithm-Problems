@@ -9,7 +9,6 @@ public class Main_1138_한줄로서기{
 	public static void main(String[] args) throws NumberFormatException, IOException {
 		BufferedReader br= new BufferedReader(new InputStreamReader(System.in));
 		int n=Integer.parseInt(br.readLine());
-
 		int[] arr = new int[n];
 		int leftCount;
 		StringTokenizer st= new StringTokenizer(br.readLine());
