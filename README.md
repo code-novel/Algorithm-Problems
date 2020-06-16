@@ -32,16 +32,19 @@
 >       * :2nd_place_medal::three: [2606 바이러스](BAEKJOON/Main_2606_바이러스.java)
 >
 >   * 다이나믹 프로그래밍(Dynlamic Programming)
+>       * :2nd_place_medal::three: [1463 1로만들기](BAEKJOON/Main_1463_1로만들기.java)
 >       * :2nd_place_medal::two: [11722 가장긴감소하는부분수열](BAEKJOON/Main_11722_가장긴감소하는부분수열.java)
+>       * :2nd_place_medal::one: [1149 RGB거리](BAEKJOON/Main_1149_RGB거리.java)
 >       * :2nd_place_medal::one: [11048 이동하기](BAEKJOON/Main_11048_이동하기.java)
 >
 >   * 시뮬레이션(Simulation)
+>       * :3rd_place_medal::two: [1592 영식이와친구들](BAEKJOON/Main_1592_영식이와친구들.java)
 >
 >   * 그리디 알고리즘(Greedy Algorithm)
 >       * :2nd_place_medal::two: [1138 한줄로서기](BAEKJOON/Main_1138_한줄로서기.java)
 >
 >   * 그래프이론(Graph)
->
+>       * :1st_place_medal::four: [1197 최소 스패닝 트리](BAEKJOON/Main_1197_최소스패닝트리.java)
 >   * 브루트 포스(Brute Force)
 >       * :2nd_place_medal::three: [1065 한수](BAEKJOON/Main_1065_한수.java)
 >       * :2nd_place_medal::three: [14889 스타트와링크](BAEKJOON/Main_14889_스타트와링크.java)
