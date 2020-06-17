@@ -17,9 +17,11 @@
 * BAEKJOON
 >   * 정렬(Sort)
 >       * :2nd_place_medal::four: [1026 보물](BAEKJOON/Main_1026_보물.java)
+>       * :2nd_place_medal::four: [1764 듣보잡](BAEKJOON/Main_1764_듣보잡.java)
 >
 >   * BFS(너비우선탐색)
 >       * :2nd_place_medal::two: [18232 텔레포트정거장](BAEKJOON/Main_18232_텔레포트정거장.java)
+>       * :2nd_place_medal::one: [1697 숨바꼭질](BAEKJOON/Main_1697_숨바꼭질.java)
 >       * :1st_place_medal::four: [1261 알고스팟](BAEKJOON/Main_1261_알고스팟.java)
 >
 >   * DFS(깊이우선탐색)
@@ -30,9 +32,11 @@
 >
 >   * 서로소 집합(Disjoint-Set)
 >       * :2nd_place_medal::three: [2606 바이러스](BAEKJOON/Main_2606_바이러스.java)
+>       * :1st_place_medal::four: [1717 집합의 표현](BAEKJOON/Main_1717_집합의표현.java)
 >
 >   * 다이나믹 프로그래밍(Dynlamic Programming)
 >       * :2nd_place_medal::three: [1463 1로만들기](BAEKJOON/Main_1463_1로만들기.java)
+>       * :2nd_place_medal::two: [1912 연속합](BAEKJOON/Main_1912_연속합.java)
 >       * :2nd_place_medal::two: [11722 가장긴감소하는부분수열](BAEKJOON/Main_11722_가장긴감소하는부분수열.java)
 >       * :2nd_place_medal::one: [1149 RGB거리](BAEKJOON/Main_1149_RGB거리.java)
 >       * :2nd_place_medal::one: [11048 이동하기](BAEKJOON/Main_11048_이동하기.java)
@@ -53,16 +57,17 @@
 >   * 기하 알고리즘(Geometric Algorithm)
 >
 >   * 이분 탐색(Binary Search)
->
+>       * :2nd_place_medal::four: [1920 수 찾기](BAEKJOON/Main_1920_수찾기.java)
 >   * 분할 정복
 >       * :2nd_place_medal::one: [1074 Z](BAEKJOON/Main_1074_Z.java)
 >
 >   * 문자열 처리
->
+>       * :1st_place_medal::one: [1786 찾기](BAEKJOON/Main_1786_찾기.java)
 >   * 다익스트라 알고리즘(Daijkstra Algorithm)
 >
 >   * 자료구조(Data Structure)
->
+>       * :2nd_place_medal::four: [1620 나는야 포켓몬 마스터 이다솜](BAEKJOON/Main_1620_나는야포켓몬마스터이다솜.java)
+>       * :2nd_place_medal::one: [1927 최소힙](BAEKJOON/Main_1927_최소힙.java)
 >   * 백트래킹(Back-Tracking)
 >       * :1st_place_medal::three: [17136 색종이붙이기](BAEKJOON/Main_17136_색종이붙이기.java)
 >
