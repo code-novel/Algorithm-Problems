@@ -30,6 +30,7 @@
 >       * :2nd_place_medal::one: [2667 단지번호붙이기](BAEKJOON/Main_2667_단지번호붙이기_DFS.java)
 >       * :1st_place_medal::five: [14502 연구소](BAEKJOON/Main_14502_연구소.java)
 >       * :1st_place_medal::four: [2573 빙산](BAEKJOON/Main_2573_빙산.java)
+>       * :1st_place_medal::three: [2933 미네랄](BAEKJOON/Main_2933_미네랄.java)
 >       * :trophy::five: [1113 수영장 만들기](BAEKJOON/Main_1113_수영장만들기.java)
 >
 >   * 서로소 집합(Disjoint-Set)
@@ -37,6 +38,7 @@
 >       * :1st_place_medal::four: [1717 집합의 표현](BAEKJOON/Main_1717_집합의표현.java)
 >
 >   * 다이나믹 프로그래밍(Dynlamic Programming)
+>       * :3rd_place_medal::three: [2747 피보나치 수](BAEKJOON/Main_2747_피보나치수.java)
 >       * :2nd_place_medal::three: [1463 1로만들기](BAEKJOON/Main_1463_1로만들기.java)
 >       * :2nd_place_medal::two: [1912 연속합](BAEKJOON/Main_1912_연속합.java)
 >       * :2nd_place_medal::two: [11722 가장긴감소하는부분수열](BAEKJOON/Main_11722_가장긴감소하는부분수열.java)
