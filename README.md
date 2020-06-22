@@ -50,7 +50,10 @@
 >   * 그래프이론(Graph)
 >       * :1st_place_medal::four: [1197 최소 스패닝 트리](BAEKJOON/Main_1197_최소스패닝트리.java)
 >   * 브루트 포스(Brute Force)
+>       * :3rd_place_medal::two: [2231 분해합](BAEKJOON/Main_2231_분해합.java)
 >       * :2nd_place_medal::three: [1065 한수](BAEKJOON/Main_1065_한수.java)
+>       * :2nd_place_medal::five: [2563 색종이](BAEKJOON/Main_2563_색종이.java)
+>       * :2nd_place_medal::five: [2567 색종이2](BAEKJOON/Main_2567_색종이2.java)
 >       * :2nd_place_medal::three: [14889 스타트와링크](BAEKJOON/Main_14889_스타트와링크.java)
 >       * :2nd_place_medal::two: [14620 꽃길](BAEKJOON/Main_14620_꽃길.java)
 >
@@ -58,7 +61,9 @@
 >
 >   * 이분 탐색(Binary Search)
 >       * :2nd_place_medal::four: [1920 수 찾기](BAEKJOON/Main_1920_수찾기.java)
+>
 >   * 분할 정복
+>       * :2nd_place_medal::three: [2630 색종이 만들기](BAEKJOON/Main_2630_색종이만들기.java)
 >       * :2nd_place_medal::one: [1074 Z](BAEKJOON/Main_1074_Z.java)
 >
 >   * 문자열 처리
@@ -73,6 +78,8 @@
 >
 >   * 수학
 >       * :3rd_place_medal::four: [17388 와글와글숭고한](BAEKJOON/Main_17388_와글와글숭고한.java)
+>       * :3rd_place_medal::three: [2010 플러그](BAEKJOON/Main_2010_플러그.java)
+>       * :3rd_place_medal::three: [2163 초콜릿 자르기](BAEKJOON/Main_2163_초콜릿자르기.java)
 >       * :3rd_place_medal::three: [17945 통학의신](BAEKJOON/Main_17945_통학의신.java)
 >       * :3rd_place_medal::three: [18247 겨울왕국티켓예매](BAEKJOON/Main_18247_겨울왕국티켓예매.java)
 >       * :3rd_place_medal::two: [1075 나누기](BAEKJOON/Main_1075_나누기.java)
