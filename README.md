@@ -32,6 +32,7 @@
 >       * :1st_place_medal::five: [14502 연구소](BAEKJOON/Main_14502_연구소.java)
 >       * :1st_place_medal::four: [2573 빙산](BAEKJOON/Main_2573_빙산.java)
 >       * :1st_place_medal::three: [2933 미네랄](BAEKJOON/Main_2933_미네랄.java)
+>       * :1st_place_medal::two: [3109 빵집](BAEKJOON/Main_3109_빵집.java)
 >       * :trophy::five: [1113 수영장 만들기](BAEKJOON/Main_1113_수영장만들기.java)
 >
 >   * 서로소 집합(Disjoint-Set)
