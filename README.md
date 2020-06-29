@@ -77,11 +77,13 @@
 >
 >   * 문자열 처리
 >       * :1st_place_medal::one: [1786 찾기](BAEKJOON/Main_1786_찾기.java)
+>
 >   * 다익스트라 알고리즘(Daijkstra Algorithm)
 >
 >   * 자료구조(Data Structure)
 >       * :2nd_place_medal::four: [1620 나는야 포켓몬 마스터 이다솜](BAEKJOON/Main_1620_나는야포켓몬마스터이다솜.java)
 >       * :2nd_place_medal::one: [1927 최소힙](BAEKJOON/Main_1927_최소힙.java)
+>       * :1st_place_medal::five: [7662 이중 우선순위 큐](BAEKJOON/Main_7662_이중우선순위큐.java)
 >   * 백트래킹(Back-Tracking)
 >       * :1st_place_medal::three: [17136 색종이붙이기](BAEKJOON/Main_17136_색종이붙이기.java)
 >
