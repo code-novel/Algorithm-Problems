@@ -57,6 +57,7 @@
 >
 >   * 그래프이론(Graph)
 >       * :1st_place_medal::four: [1197 최소 스패닝 트리](BAEKJOON/Main_1197_최소스패닝트리.java)
+>
 >   * 브루트 포스(Brute Force)
 >       * :3rd_place_medal::two: [2231 분해합](BAEKJOON/Main_2231_분해합.java)
 >       * :2nd_place_medal::three: [1065 한수](BAEKJOON/Main_1065_한수.java)
@@ -84,6 +85,7 @@
 >       * :2nd_place_medal::four: [1620 나는야 포켓몬 마스터 이다솜](BAEKJOON/Main_1620_나는야포켓몬마스터이다솜.java)
 >       * :2nd_place_medal::one: [1927 최소힙](BAEKJOON/Main_1927_최소힙.java)
 >       * :1st_place_medal::five: [7662 이중 우선순위 큐](BAEKJOON/Main_7662_이중우선순위큐.java)
+>
 >   * 백트래킹(Back-Tracking)
 >       * :1st_place_medal::three: [17136 색종이붙이기](BAEKJOON/Main_17136_색종이붙이기.java)
 >
@@ -97,6 +99,7 @@
 >       * :3rd_place_medal::two: [17946 피자는나눌수록커지잖아요](BAEKJOON/Main_17946_피자는나눌수록커지잖아요.java)
 >
 >   * 구현
+>       * :3rd_place_medal::two: [8958 OX퀴즈](BAEKJOON/Main_8958_OX퀴즈.java)
 >       * :3rd_place_medal::two: [17826 나의학점은](BAEKJOON/Main_17826_나의학점은.java)
 >       * :3rd_place_medal::two: [18228 펭귄추락대책위원회](BAEKJOON/Main_18228_펭귄추락대책위원회.java)
 >       * :3rd_place_medal::one: [2999 비밀 이메일](BAEKJOON/Main_2999_비밀이메일.java)
