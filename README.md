@@ -101,6 +101,7 @@
 >       * :1st_place_medal::five: [7662 이중 우선순위 큐](BAEKJOON/Main_7662_이중우선순위큐.java)
 >
 >   * 백트래킹(Back-Tracking)
+>       * :2nd_place_medal::three: [15649 N과M1](BAEKJOON/Main_15649_N과M1.java)
 >       * :1st_place_medal::three: [17136 색종이붙이기](BAEKJOON/Main_17136_색종이붙이기.java)
 >
 >   * 수학
