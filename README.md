@@ -93,6 +93,7 @@
 >       * :3rd_place_medal::four: [17388 와글와글숭고한](BAEKJOON/Main_17388_와글와글숭고한.java)
 >       * :3rd_place_medal::three: [2010 플러그](BAEKJOON/Main_2010_플러그.java)
 >       * :3rd_place_medal::three: [2163 초콜릿 자르기](BAEKJOON/Main_2163_초콜릿자르기.java)
+>       * :3rd_place_medal::three: [9085 더하기](BAEKJOON/Main_9085_더하기.java)
 >       * :3rd_place_medal::three: [17945 통학의신](BAEKJOON/Main_17945_통학의신.java)
 >       * :3rd_place_medal::three: [18247 겨울왕국티켓예매](BAEKJOON/Main_18247_겨울왕국티켓예매.java)
 >       * :3rd_place_medal::two: [1075 나누기](BAEKJOON/Main_1075_나누기.java)
@@ -105,5 +106,5 @@
 >       * :3rd_place_medal::one: [2999 비밀 이메일](BAEKJOON/Main_2999_비밀이메일.java)
 >       * :3rd_place_medal::one: [3985 롤케이크](BAEKJOON/Main_3985_롤케이크.java)
 >       * :2nd_place_medal::five: [18242 네모네모시력검사](BAEKJOON/Main_18242_네모네모시력검사.java)
->       * :1st_place_medal::four: [8983 사냥꾼](BAEKJOON/Main_7662_이중우선순위큐.java)
+>       * :1st_place_medal::four: [8983 사냥꾼](BAEKJOON/Main_8983_사냥꾼.java)
 >
