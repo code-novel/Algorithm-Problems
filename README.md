@@ -49,6 +49,7 @@
 >       * :2nd_place_medal::one: [1149 RGB거리](BAEKJOON/Main_1149_RGB거리.java)
 >       * :2nd_place_medal::one: [11048 이동하기](BAEKJOON/Main_11048_이동하기.java)
 >       * :1st_place_medal::five: [5582 공통 부분 문자열](BAEKJOON/Main_5582_공통부분문자열.java)
+>       * :1st_place_medal::three: [11054 가장 긴 바이토닉 부분 수열](BAEKJOON/Main_11054_가장긴바이토닉부분수열.java)
 >       * :1st_place_medal::two: [10942 팰린드롬?](BAEKJOON/Main_10942_팰린드롬.java)
 >
 >   * 시뮬레이션(Simulation)
@@ -97,7 +98,7 @@
 >       * :3rd_place_medal::three: [2163 초콜릿 자르기](BAEKJOON/Main_2163_초콜릿자르기.java)
 >       * :3rd_place_medal::three: [9085 더하기](BAEKJOON/Main_9085_더하기.java)
 >       * :3rd_place_medal::three: [10950 A+B-3](BAEKJOON/Main_10950_AB3.java)
->       * :3rd_place_medal::three: [10951 A+B-4](BAEKJOON/Main_10950_AB4.java)
+>       * :3rd_place_medal::three: [10951 A+B-4](BAEKJOON/Main_10951_AB4.java)
 >       * :3rd_place_medal::three: [17945 통학의신](BAEKJOON/Main_17945_통학의신.java)
 >       * :3rd_place_medal::three: [18247 겨울왕국티켓예매](BAEKJOON/Main_18247_겨울왕국티켓예매.java)
 >       * :3rd_place_medal::two: [1075 나누기](BAEKJOON/Main_1075_나누기.java)
