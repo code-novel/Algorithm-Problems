@@ -45,6 +45,7 @@
 >       * :2nd_place_medal::three: [1463 1로만들기](BAEKJOON/Main_1463_1로만들기.java)
 >       * :2nd_place_medal::three: [9095 1,2,3 더하기](BAEKJOON/Main_9095_123더하기.java)
 >       * :2nd_place_medal::two: [1912 연속합](BAEKJOON/Main_1912_연속합.java)
+>       * :2nd_place_medal::two: [11060 점프 점프](BAEKJOON/Main_11060_점프점프.java)
 >       * :2nd_place_medal::two: [11722 가장긴감소하는부분수열](BAEKJOON/Main_11722_가장긴감소하는부분수열.java)
 >       * :2nd_place_medal::one: [1149 RGB거리](BAEKJOON/Main_1149_RGB거리.java)
 >       * :2nd_place_medal::one: [11048 이동하기](BAEKJOON/Main_11048_이동하기.java)
