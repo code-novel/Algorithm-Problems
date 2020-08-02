@@ -57,6 +57,7 @@
 >       * :3rd_place_medal::two: [1592 영식이와친구들](BAEKJOON/Main_1592_영식이와친구들.java)
 >
 >   * 그리디 알고리즘(Greedy Algorithm)
+>       * :2nd_place_medal::three: [11399 ATM](BAEKJOON/Main_11399_ATM.java)
 >       * :2nd_place_medal::two: [1138 한줄로서기](BAEKJOON/Main_1138_한줄로서기.java)
 >
 >   * 그래프이론(Graph)
