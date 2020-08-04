@@ -38,6 +38,7 @@
 >
 >   * 서로소 집합(Disjoint-Set)
 >       * :2nd_place_medal::three: [2606 바이러스](BAEKJOON/Main_2606_바이러스.java)
+>       * :2nd_place_medal::two: [11724 연결 요소의 개수](BAEKJOON/Main_11724_연결요소의개수.java)
 >       * :1st_place_medal::four: [1717 집합의 표현](BAEKJOON/Main_1717_집합의표현.java)
 >
 >   * 다이나믹 프로그래밍(Dynlamic Programming)
