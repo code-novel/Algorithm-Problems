@@ -120,5 +120,6 @@
 >       * :3rd_place_medal::one: [3985 롤케이크](BAEKJOON/Main_3985_롤케이크.java)
 >       * :2nd_place_medal::five: [11723 집합](BAEKJOON/Main_11723_집합.java)
 >       * :2nd_place_medal::five: [18242 네모네모시력검사](BAEKJOON/Main_18242_네모네모시력검사.java)
+>       * :1st_place_medal::five: [14503 로봇청소기](BAEKJOON/Main_14503_로봇청소기.java)
 >       * :1st_place_medal::four: [8983 사냥꾼](BAEKJOON/Main_8983_사냥꾼.java)
 >
