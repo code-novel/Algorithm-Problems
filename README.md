@@ -124,3 +124,5 @@
 >       * :1st_place_medal::five: [14503 로봇청소기](BAEKJOON/Main_14503_로봇청소기.java)
 >       * :1st_place_medal::four: [8983 사냥꾼](BAEKJOON/Main_8983_사냥꾼.java)
 >
+>   * Permutation(조합)
+>       * :2nd_place_medal::three: [15654 N과M5](BAEKJOON/Main_15654_N과M5.java)
