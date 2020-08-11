@@ -85,6 +85,7 @@
 >
 >   * 분할 정복
 >       * :2nd_place_medal::three: [2630 색종이 만들기](BAEKJOON/Main_2630_색종이만들기.java)
+>       * :2nd_place_medal::two: [11729 하노이 탑 이동 순서](BAEKJOON/Main_11729_하노이탑이동순서.java)
 >       * :2nd_place_medal::one: [1074 Z](BAEKJOON/Main_1074_Z.java)
 >
 >   * 문자열 처리
