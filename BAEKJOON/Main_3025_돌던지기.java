@@ -8,8 +8,8 @@ public class Main_3025_돌던지기{
 
 	public static int R, C, N;
 	public static char [][] map;
-	public static int [] top;	//X의 위치를 저장.
-	public static int [][] col;
+	public static int [] top;	//돌이 C열로 들어왔을 때 어떤 R행에 멈추는지를 반환. 초기값은 밑바닥 or X의 위치
+	public static int [][] col;	//돌이 C열로 들어와 top[C]에 멈췄을 때 최종적으로(미끄러지거나 그대로) 도착할 c를 반환 col[C][R]
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		StringTokenizer st = new StringTokenizer(br.readLine());
@@ -33,8 +33,8 @@ public class Main_3025_돌던지기{
 		for(int i=0;i<N;++i) {
 			int c=Integer.parseInt(br.readLine())-1;
 			int r=top[c]-1;
-			map[r][col[c][r]]='O';
-			for(int j=0;j<C;++j) {
+			map[r][col[c][r]]='O'; //돌을 바로 박아준다.
+			for(int j=0;j<C;++j) {	//박아준 뒤에 top과 col의 값을 갱신해준다.
 				while(true) {
 					r = top[j];
 					c = col[j][r - 1];
