@@ -89,6 +89,7 @@
 >       * :2nd_place_medal::three: [2630 색종이 만들기](BAEKJOON/Main_2630_색종이만들기.java)
 >       * :2nd_place_medal::two: [11729 하노이 탑 이동 순서](BAEKJOON/Main_11729_하노이탑이동순서.java)
 >       * :2nd_place_medal::one: [1074 Z](BAEKJOON/Main_1074_Z.java)
+>       * :2nd_place_medal::one: [1629 곱셈](BAEKJOON/Main_1629_곱셈.java)
 >
 >   * 문자열 처리
 >       * :1st_place_medal::one: [1786 찾기](BAEKJOON/Main_1786_찾기.java)
@@ -100,6 +101,7 @@
 >       * :2nd_place_medal::two: [11279 최대힙](BAEKJOON/Main_11279_최대힙.java)
 >       * :2nd_place_medal::one: [1927 최소힙](BAEKJOON/Main_1927_최소힙.java)
 >       * :1st_place_medal::five: [7662 이중 우선순위 큐](BAEKJOON/Main_7662_이중우선순위큐.java)
+>       * :1st_place_medal::four: [1918 후위 표기식](BAEKJOON/Main_1918_후위표기식.java)
 >
 >   * 백트래킹(Back-Tracking)
 >       * :2nd_place_medal::three: [15649 N과M1](BAEKJOON/Main_15649_N과M1.java)
