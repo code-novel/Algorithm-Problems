@@ -124,6 +124,7 @@
 >       * :3rd_place_medal::two: [1075 나누기](BAEKJOON/Main_1075_나누기.java)
 >       * :3rd_place_medal::two: [13458 시험 감독](BAEKJOON/Main_13458_시험감독.java)
 >       * :3rd_place_medal::two: [17946 피자는나눌수록커지잖아요](BAEKJOON/Main_17946_피자는나눌수록커지잖아요.java)
+>       * :1st_place_medal::one: [1016 제곱ㄴㄴ수](BAEKJOON/Main_1016_제곱ㄴㄴ수.java)
 >
 >   * 구현
 >       * :3rd_place_medal::two: [8958 OX퀴즈](BAEKJOON/Main_8958_OX퀴즈.java)
