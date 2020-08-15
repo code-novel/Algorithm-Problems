@@ -113,6 +113,7 @@
 >       * :1st_place_medal::three: [17136 색종이붙이기](BAEKJOON/Main_17136_색종이붙이기.java)
 >
 >   * 수학
+>       * :3rd_place_medal::four: [1330 두 수 비교하기](BAEKJOON/Main_1330_두수비교하기.java)
 >       * :3rd_place_medal::four: [17388 와글와글숭고한](BAEKJOON/Main_17388_와글와글숭고한.java)
 >       * :3rd_place_medal::three: [2010 플러그](BAEKJOON/Main_2010_플러그.java)
 >       * :3rd_place_medal::three: [2163 초콜릿 자르기](BAEKJOON/Main_2163_초콜릿자르기.java)
