@@ -123,6 +123,7 @@
 >       * :3rd_place_medal::three: [17945 통학의신](BAEKJOON/Main_17945_통학의신.java)
 >       * :3rd_place_medal::three: [18247 겨울왕국티켓예매](BAEKJOON/Main_18247_겨울왕국티켓예매.java)
 >       * :3rd_place_medal::two: [1075 나누기](BAEKJOON/Main_1075_나누기.java)
+>       * :3rd_place_medal::two: [2562 최댓값](BAEKJOON/Main_2562_최댓값.java)
 >       * :3rd_place_medal::two: [13458 시험 감독](BAEKJOON/Main_13458_시험감독.java)
 >       * :3rd_place_medal::two: [17946 피자는나눌수록커지잖아요](BAEKJOON/Main_17946_피자는나눌수록커지잖아요.java)
 >       * :1st_place_medal::one: [1016 제곱ㄴㄴ수](BAEKJOON/Main_1016_제곱ㄴㄴ수.java)
