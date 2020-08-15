@@ -92,6 +92,7 @@
 >       * :2nd_place_medal::one: [1629 곱셈](BAEKJOON/Main_1629_곱셈.java)
 >
 >   * 문자열 처리
+>       * :3rd_place_medal::one: [1259 팰린드롬수](BAEKJOON/Main_1259_팰린드롬수.java)
 >       * :1st_place_medal::one: [1786 찾기](BAEKJOON/Main_1786_찾기.java)
 >
 >   * 다익스트라 알고리즘(Daijkstra Algorithm)
