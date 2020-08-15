@@ -71,10 +71,11 @@
 >
 >   * 브루트 포스(Brute Force)
 >       * :3rd_place_medal::two: [2231 분해합](BAEKJOON/Main_2231_분해합.java)
->       * :2nd_place_medal::three: [1065 한수](BAEKJOON/Main_1065_한수.java)
+>       * :2nd_place_medal::five: [1436 영화감독숌](BAEKJOON/Main_1436_영화감독숌.java)
 >       * :2nd_place_medal::five: [2563 색종이](BAEKJOON/Main_2563_색종이.java)
 >       * :2nd_place_medal::five: [2567 색종이2](BAEKJOON/Main_2567_색종이2.java)
 >       * :2nd_place_medal::five: [7568 덩치](BAEKJOON/Main_7568_덩치.java)
+>       * :2nd_place_medal::four: [1065 한수](BAEKJOON/Main_1065_한수.java)
 >       * :2nd_place_medal::four: [14501 퇴사](BAEKJOON/Main_14501_퇴사.java)
 >       * :2nd_place_medal::three: [14889 스타트와링크](BAEKJOON/Main_14889_스타트와링크.java)
 >       * :2nd_place_medal::two: [14620 꽃길](BAEKJOON/Main_14620_꽃길.java)
