@@ -25,6 +25,7 @@
 >       * :2nd_place_medal::one: [2667 단지번호붙이기](BAEKJOON/Main_2667_단지번호붙이기_BFS.java)
 >       * :2nd_place_medal::one: [7576 토마토](BAEKJOON/Main_7576_토마토.java)
 >       * :1st_place_medal::four: [1261 알고스팟](BAEKJOON/Main_1261_알고스팟.java)
+>       * :1st_place_medal::four: [2206 벽 부수고 이동하기](BAEKJOON/Main_2206_벽부수고이동하기.java)
 >
 >   * DFS(깊이우선탐색)
 >       * :2nd_place_medal::two: [1012 유기농배추](BAEKJOON/Main_1012_유기농배추.java)
