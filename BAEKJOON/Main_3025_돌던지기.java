@@ -42,7 +42,7 @@ public class Main_3025_돌던지기{
 						top[j]--;
 						continue;
 					}
-					if(r == R || map[r][c] == 'X') {	//맨 아래이거나 X일때는 신경쓰지 않는다.
+					if(r == R || map[r][c] == 'X') {	//맨 아래이거나 X일때는 더 이상 갱신을 할 이유가 없음.(while 끝)
 						break;
 					} else if(map[r][c] == '.') {
 						col[j][r] = c;
@@ -53,7 +53,7 @@ public class Main_3025_돌던지기{
 					} else if(c < C - 1 && map[r][c + 1] == '.' && map[r - 1][c + 1] == '.') {	//오른쪽 체크
 						col[j][r] = c + 1;
 						top[j]++;
-					} else {
+					} else {		//갱신을 할게 없으면 while이 끝난다.
 						break;
 					}
 				}
