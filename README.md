@@ -68,6 +68,7 @@
 >   * 그리디 알고리즘(Greedy Algorithm)
 >       * :2nd_place_medal::three: [11399 ATM](BAEKJOON/Main_11399_ATM.java)
 >       * :2nd_place_medal::two: [1138 한줄로서기](BAEKJOON/Main_1138_한줄로서기.java)
+>       * :2nd_place_medal::one: [16953 A → B](BAEKJOON/Main_16953_AtoB.java)
 >
 >   * 그래프이론(Graph)
 >       * :1st_place_medal::four: [1197 최소 스패닝 트리](BAEKJOON/Main_1197_최소스패닝트리.java)
