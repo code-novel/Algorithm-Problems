@@ -32,6 +32,7 @@
 >       * :2nd_place_medal::one: [2667 단지번호붙이기](BAEKJOON/Main_2667_단지번호붙이기_DFS.java)
 >       * :1st_place_medal::five: [3055 탈출](BAEKJOON/Main_3055_탈출.java)
 >       * :1st_place_medal::five: [14502 연구소](BAEKJOON/Main_14502_연구소.java)
+>       * :1st_place_medal::four: [1987 알파벳](BAEKJOON/Main_1987_알파벳.java)
 >       * :1st_place_medal::four: [2573 빙산](BAEKJOON/Main_2573_빙산.java)
 >       * :1st_place_medal::three: [2933 미네랄](BAEKJOON/Main_2933_미네랄.java)
 >       * :1st_place_medal::two: [3109 빵집](BAEKJOON/Main_3109_빵집.java)
