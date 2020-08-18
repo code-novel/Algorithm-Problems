@@ -89,6 +89,7 @@
 >
 >   * 이분 탐색(Binary Search)
 >       * :2nd_place_medal::four: [1920 수 찾기](BAEKJOON/Main_1920_수찾기.java)
+>       * :trophy::five: [16566 카드 게임](BAEKJOON/Main_16566_카드게임.java)
 >
 >   * 분할 정복
 >       * :2nd_place_medal::three: [2630 색종이 만들기](BAEKJOON/Main_2630_색종이만들기.java)
