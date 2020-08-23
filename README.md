@@ -65,6 +65,7 @@
 >       * :3rd_place_medal::two: [1592 영식이와친구들](BAEKJOON/Main_1592_영식이와친구들.java)
 >       * :2nd_place_medal::one: [14891 톱니바퀴](BAEKJOON/Main_14891_톱니바퀴.java)
 >       * :1st_place_medal::three: [17822 원판 돌리기](BAEKJOON/Main_17822_원판돌리기.java)
+>       * :1st_place_medal::two: [17143 낚시왕](BAEKJOON/Main_17143_낚시왕.java)
 >       * :1st_place_medal::two: [17780 새로운 게임](BAEKJOON/Main_17780_새로운게임.java)
 >       * :1st_place_medal::two: [17837 새로운 게임2](BAEKJOON/Main_17837_새로운게임2.java)
 >       * :1st_place_medal::one: [3025 돌던지기](BAEKJOON/Main_3025_돌던지기.java)
@@ -88,7 +89,7 @@
 >       * :2nd_place_medal::three: [14889 스타트와링크](BAEKJOON/Main_14889_스타트와링크.java)
 >       * :2nd_place_medal::two: [14620 꽃길](BAEKJOON/Main_14620_꽃길.java)
 >       * :1st_place_medal::two: [12100 2048(Easy)](BAEKJOON/Main_12100_2048(Easy).java)
->       * :1st_place_medal::two: [17825 주사위 윷놀이](BAEKJOON/Main_12100_2048(Easy).java)
+>       * :1st_place_medal::two: [17825 주사위 윷놀이](BAEKJOON/Main_17825_주사위윷놀이.java)
 >
 >   * 기하 알고리즘(Geometric Algorithm)
 >
