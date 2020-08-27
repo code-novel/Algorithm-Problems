@@ -91,6 +91,7 @@
 >       * :2nd_place_medal::four: [14501 퇴사](BAEKJOON/Main_14501_퇴사.java)
 >       * :2nd_place_medal::three: [14889 스타트와링크](BAEKJOON/Main_14889_스타트와링크.java)
 >       * :2nd_place_medal::two: [14620 꽃길](BAEKJOON/Main_14620_꽃길.java)
+>       * :1st_place_medal::five: [14500 테트로미노](BAEKJOON/Main_14500_테트로미노.java)
 >       * :1st_place_medal::four: [17281 baseball](BAEKJOON/Main_17281_baseball.java)
 >       * :1st_place_medal::four: [17406 배열 돌리기 4](BAEKJOON/Main_17406_배열돌리기4.java)
 >       * :1st_place_medal::three: [17472 다리 만들기 2](BAEKJOON/Main_17472_다리만들기2.java)
