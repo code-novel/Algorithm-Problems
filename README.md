@@ -67,6 +67,7 @@
 >       * :3rd_place_medal::two: [1592 영식이와친구들](BAEKJOON/Main_1592_영식이와친구들.java)
 >       * :2nd_place_medal::one: [14891 톱니바퀴](BAEKJOON/Main_14891_톱니바퀴.java)
 >       * :1st_place_medal::five: [14499 주사위 굴리기](BAEKJOON/Main_14499_주사위굴리기.java)
+>       * :1st_place_medal::four: [16235 나무 재테크](BAEKJOON/Main_16235_나무재테크.java)
 >       * :1st_place_medal::three: [17822 원판 돌리기](BAEKJOON/Main_17822_원판돌리기.java)
 >       * :1st_place_medal::two: [17143 낚시왕](BAEKJOON/Main_17143_낚시왕.java)
 >       * :1st_place_medal::two: [17780 새로운 게임](BAEKJOON/Main_17780_새로운게임.java)
