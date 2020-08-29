@@ -118,6 +118,7 @@
 >       * :1st_place_medal::one: [1786 찾기](BAEKJOON/Main_1786_찾기.java)
 >
 >   * 다익스트라 알고리즘(Daijkstra Algorithm)
+>       * :1st_place_medal::five: [1753 최단경로](BAEKJOON/Main_1753_최단경로.java)
 >
 >   * 자료구조(Data Structure)
 >       * :2nd_place_medal::four: [1620 나는야 포켓몬 마스터 이다솜](BAEKJOON/Main_1620_나는야포켓몬마스터이다솜.java)
