@@ -170,7 +170,7 @@
 >
 > *
 >
-* 정올(JUNGOL)
+* 프로그래머스
 >
-> *
->
+>   * 2020 KAKAO BLIND RECRUITMENT
+>       * 
