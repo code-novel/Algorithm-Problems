@@ -121,6 +121,7 @@
 >       * :1st_place_medal::five: [1753 최단경로](BAEKJOON/Main_1753_최단경로.java)
 >       * :1st_place_medal::five: [1916 최소비용 구하기](BAEKJOON/Main_1916_최소비용구하기.java)
 >       * :1st_place_medal::four: [10282 해킹](BAEKJOON/Main_10282_해킹.java)
+>       * :1st_place_medal::four: [14938 서강그라운드](BAEKJOON/Main_14938_서강그라운드.java)
 >       * :1st_place_medal::three: [11779 최소비용 구하기 2](BAEKJOON/Main_11779_최소비용구하기2.java)
 >
 >   * 자료구조(Data Structure)
