@@ -66,6 +66,7 @@
 >   * 시뮬레이션(Simulation)
 >       * :3rd_place_medal::two: [1592 영식이와친구들](BAEKJOON/Main_1592_영식이와친구들.java)
 >       * :2nd_place_medal::one: [14891 톱니바퀴](BAEKJOON/Main_14891_톱니바퀴.java)
+>       * :1st_place_medal::five: [3190 뱀](BAEKJOON/Main_3190_뱀.java)
 >       * :1st_place_medal::five: [14499 주사위 굴리기](BAEKJOON/Main_14499_주사위굴리기.java)
 >       * :1st_place_medal::five: [16236 아기 상어](BAEKJOON/Main_16236_아기상어.java)
 >       * :1st_place_medal::four: [16235 나무 재테크](BAEKJOON/Main_16235_나무재테크.java)
