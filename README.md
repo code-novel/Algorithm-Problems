@@ -28,6 +28,7 @@
 >       * :1st_place_medal::five: [16234 인구 이동](BAEKJOON/Main_16234_인구이동.java)
 >       * :1st_place_medal::four: [1261 알고스팟](BAEKJOON/Main_1261_알고스팟.java)
 >       * :1st_place_medal::four: [2206 벽 부수고 이동하기](BAEKJOON/Main_2206_벽부수고이동하기.java)
+>       * :1st_place_medal::two: [13460 구슬 탈출 2](BAEKJOON/Main_13460_구슬탈출2.java)
 >
 >   * DFS(깊이우선탐색)
 >       * :2nd_place_medal::two: [1012 유기농배추](BAEKJOON/Main_1012_유기농배추.java)
