@@ -30,6 +30,7 @@
 >       * :1st_place_medal::four: [2206 벽 부수고 이동하기](BAEKJOON/Main_2206_벽부수고이동하기.java)
 >       * :1st_place_medal::four: [19238 스타트 택시](BAEKJOON/Main_19238_스타트택시.java)
 >       * :1st_place_medal::two: [13460 구슬 탈출 2](BAEKJOON/Main_13460_구슬탈출2.java)
+>       * :1st_place_medal::one: [9328 열쇠](BAEKJOON/Main_9328_열쇠.java)
 >
 >   * DFS(깊이우선탐색)
 >       * :2nd_place_medal::two: [1012 유기농배추](BAEKJOON/Main_1012_유기농배추.java)
