@@ -28,6 +28,7 @@
 >       * :1st_place_medal::five: [16234 인구 이동](BAEKJOON/Main_16234_인구이동.java)
 >       * :1st_place_medal::four: [1261 알고스팟](BAEKJOON/Main_1261_알고스팟.java)
 >       * :1st_place_medal::four: [2206 벽 부수고 이동하기](BAEKJOON/Main_2206_벽부수고이동하기.java)
+>       * :1st_place_medal::four: [13459 구슬 탈출](BAEKJOON/Main_13459_구슬탈출.java)
 >       * :1st_place_medal::four: [19238 스타트 택시](BAEKJOON/Main_19238_스타트택시.java)
 >       * :1st_place_medal::two: [13460 구슬 탈출 2](BAEKJOON/Main_13460_구슬탈출2.java)
 >       * :1st_place_medal::one: [9328 열쇠](BAEKJOON/Main_9328_열쇠.java)
