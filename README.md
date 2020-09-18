@@ -68,6 +68,7 @@
 >       * :2nd_place_medal::one: [11048 이동하기](BAEKJOON/Main_11048_이동하기.java)
 >       * :2nd_place_medal::one: [11660 구간 합 구하기 5](BAEKJOON/Main_11660_구간합구하기5.java)
 >       * :1st_place_medal::five: [5582 공통 부분 문자열](BAEKJOON/Main_5582_공통부분문자열.java)
+>       * :1st_place_medal::five: [17069 파이프 옮기기 2](BAEKJOON/Main_17069_파이프옮기기2.java)
 >       * :1st_place_medal::three: [11054 가장 긴 바이토닉 부분 수열](BAEKJOON/Main_11054_가장긴바이토닉부분수열.java)
 >       * :1st_place_medal::two: [10942 팰린드롬?](BAEKJOON/Main_10942_팰린드롬.java)
 >
