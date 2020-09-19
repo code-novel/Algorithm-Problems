@@ -159,6 +159,7 @@
 >       * :3rd_place_medal::three: [9085 더하기](BAEKJOON/Main_9085_더하기.java)
 >       * :3rd_place_medal::three: [10950 A+B-3](BAEKJOON/Main_10950_AB3.java)
 >       * :3rd_place_medal::three: [10951 A+B-4](BAEKJOON/Main_10951_AB4.java)
+>       * :3rd_place_medal::three: [13199 치킨 먹고 싶다](BAEKJOON/Main_13199_치킨먹고싶다.java)
 >       * :3rd_place_medal::three: [17945 통학의신](BAEKJOON/Main_17945_통학의신.java)
 >       * :3rd_place_medal::three: [18247 겨울왕국티켓예매](BAEKJOON/Main_18247_겨울왕국티켓예매.java)
 >       * :3rd_place_medal::two: [1075 나누기](BAEKJOON/Main_1075_나누기.java)
