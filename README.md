@@ -85,6 +85,7 @@
 >       * :1st_place_medal::two: [17780 새로운 게임](BAEKJOON/Main_17780_새로운게임.java)
 >       * :1st_place_medal::two: [17837 새로운 게임2](BAEKJOON/Main_17837_새로운게임2.java)
 >       * :1st_place_medal::one: [3025 돌던지기](BAEKJOON/Main_3025_돌던지기.java)
+>       * :trophy::five: [19235 모노미노도미노](BAEKJOON/Main_19235_모노미노도미노.java)
 >
 >   * 그리디 알고리즘(Greedy Algorithm)
 >       * :2nd_place_medal::three: [11399 ATM](BAEKJOON/Main_11399_ATM.java)
