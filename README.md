@@ -95,6 +95,7 @@
 >
 >   * 그래프이론(Graph)
 >       * :1st_place_medal::four: [1197 최소 스패닝 트리](BAEKJOON/Main_1197_최소스패닝트리.java)
+>       * :1st_place_medal::two: [2623 음악프로그램](BAEKJOON/Main_2623_음악프로그램.java)
 >
 >   * 브루트 포스(Brute Force)
 >       * :3rd_place_medal::two: [2231 분해합](BAEKJOON/Main_2231_분해합.java)
