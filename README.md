@@ -189,6 +189,7 @@
 >       * :2nd_place_medal::three: [15654 N과M5](BAEKJOON/Main_15654_N과M5.java)
 >
 >   * Two Pointer(투포인터)
+>       * :2nd_place_medal::one: [15961 회전 초밥](BAEKJOON/Main_2531_회전초밥.java)
 >       * :1st_place_medal::five: [15961 회전 초밥](BAEKJOON/Main_15961_회전초밥.java)
 >       * :1st_place_medal::three: [1806 부분합](BAEKJOON/Main_1806_부분합.java)
 >
