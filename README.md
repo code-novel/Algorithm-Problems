@@ -31,6 +31,7 @@
 >       * :1st_place_medal::five: [17836 공주님을 구해라!](BAEKJOON/Main_17836_공주님을구해라.java)
 >       * :1st_place_medal::four: [1261 알고스팟](BAEKJOON/Main_1261_알고스팟.java)
 >       * :1st_place_medal::four: [2206 벽 부수고 이동하기](BAEKJOON/Main_2206_벽부수고이동하기.java)
+>       * :1st_place_medal::four: [11967 불켜기](BAEKJOON/Main_11967_불켜기.java)
 >       * :1st_place_medal::four: [13459 구슬 탈출](BAEKJOON/Main_13459_구슬탈출.java)
 >       * :1st_place_medal::four: [17142 연구소 3](BAEKJOON/Main_17142_연구소3.java)
 >       * :1st_place_medal::four: [18188 다오의 데이트](BAEKJOON/Main_18188_다오의데이트.java)
