@@ -83,6 +83,7 @@
 >       * :1st_place_medal::five: [3190 뱀](BAEKJOON/Main_3190_뱀.java)
 >       * :1st_place_medal::five: [14499 주사위 굴리기](BAEKJOON/Main_14499_주사위굴리기.java)
 >       * :1st_place_medal::five: [16236 아기 상어](BAEKJOON/Main_16236_아기상어.java)
+>       * :1st_place_medal::four: [8972 미친 아두이노](BAEKJOON/Main_8972_아두이노.java)
 >       * :1st_place_medal::four: [16235 나무 재테크](BAEKJOON/Main_16235_나무재테크.java)
 >       * :1st_place_medal::three: [17822 원판 돌리기](BAEKJOON/Main_17822_원판돌리기.java)
 >       * :1st_place_medal::three: [19237 어른 상어](BAEKJOON/Main_19237_어른상어.java)
