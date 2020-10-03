@@ -199,6 +199,9 @@
 >       * :1st_place_medal::five: [15961 회전 초밥](BAEKJOON/Main_15961_회전초밥.java)
 >       * :1st_place_medal::three: [1806 부분합](BAEKJOON/Main_1806_부분합.java)
 >
+>   * 누적합
+>       * :1st_place_medal::one: [2532 피자판매](BAEKJOON/Main_2532_피자판매.java)
+>
 >* SWEA(SoftWare Expert Academy)
 >
 > *
