@@ -54,14 +54,12 @@ public class Main_14442_벽부수고이동하기2{
 				for(int i=0;i<4;++i) {
 					int nr=n.r+dr[i];
 					int nc=n.c+dc[i];
-					if(!visited[nr][nc][n.k]) {
-						if(map[nr][nc]==0) {
-							visited[nr][nc][n.k]=true;
-							q.add(new Node(nr,nc,n.k));
-						}else if(n.k<K&&map[nr][nc]==1) {
-							visited[nr][nc][n.k+1]=true;
-							q.add(new Node(nr,nc,n.k+1));
-						}
+					if(map[nr][nc]==0&&!visited[nr][nc][n.k]) {
+						visited[nr][nc][n.k]=true;
+						q.add(new Node(nr,nc,n.k));
+					}else if(n.k<K&&map[nr][nc]==1&&!visited[nr][nc][n.k+1]) {
+						visited[nr][nc][n.k+1]=true;
+						q.add(new Node(nr,nc,n.k+1));
 					}
 				}
 			}
