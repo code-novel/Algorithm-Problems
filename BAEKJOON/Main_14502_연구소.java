@@ -1,95 +1,79 @@
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.StringTokenizer;
 
-public class Main_14502_연구소 {
+public class Main_14502_연구소{
+	public static int N,M,max;
+	public static int[] dr= {-1,1,0,0};
+	public static int[] dc= {0,0,-1,1};
 	public static int[][] map;
-	public static int[][] temp;
-	public static boolean isVisited[][];
-	public static int dirx[] = { -1, 1, 0, 0 };
-	public static int diry[] = { 0, 0, -1, 1 };
-	public static int N, M;
-	public static int count = 0, max = 0;;
-
+	public static ArrayList<Node> virus, bean;
 	public static void main(String[] args) throws IOException {
 		// TODO Auto-generated method stub
-		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-		StringTokenizer st = new StringTokenizer(br.readLine());
-		N = Integer.parseInt(st.nextToken());
-		M = Integer.parseInt(st.nextToken());
-		map = new int[N + 2][M + 2];
-		temp = new int[N + 2][M + 2];
-		for (int i = 0; i <= N + 1; ++i) {
-			for (int j = 0; j <= M + 1; ++j) {
-				map[i][j] = -1;
-				temp[i][j] = -1;
+		BufferedReader br=new BufferedReader(new InputStreamReader(System.in));
+		StringTokenizer st=new StringTokenizer(br.readLine());
+		N=Integer.parseInt(st.nextToken());
+		M=Integer.parseInt(st.nextToken());
+		virus=new ArrayList<>();
+		bean=new ArrayList<>();
+		map=new int[N+2][M+2];
+		for(int i=0;i<N+2;++i) {
+			Arrays.fill(map[i], 1);
+		}
+		for(int i=1;i<=N;++i) {
+			st=new StringTokenizer(br.readLine());
+			for(int j=1;j<=M;++j) {
+				map[i][j]=Integer.parseInt(st.nextToken());
+				if(map[i][j]==0) bean.add(new Node(i,j));
+				else if(map[i][j]==2) virus.add(new Node(i,j));
 			}
 		}
-		for (int i = 1; i <= N; ++i) {
-			st = new StringTokenizer(br.readLine());
-			for (int j = 1; j <= M; ++j) {
-				map[i][j] = Integer.parseInt(st.nextToken());
-			}
-		}
-		for (int i = 1; i <= N; ++i) {
-			for (int j = 1; j <= M; ++j) {
-				if (map[i][j] == 0) {
-					map[i][j] = 1;
-					dfs(i, j, 1);
-					map[i][j] = 0;
+		for(int i=0;i<bean.size()-2;++i) {
+			for(int j=i+1;j<bean.size()-1;++j) {
+				for(int k=j+1;k<bean.size();++k) {
+					map[bean.get(i).r][bean.get(i).c]=1;
+					map[bean.get(j).r][bean.get(j).c]=1;
+					map[bean.get(k).r][bean.get(k).c]=1;
+					getSafe();
 				}
 			}
 		}
 		System.out.println(max);
 	}
-
-	public static void dfs(int r, int c, int cnt) {
-		if (cnt == 3) {
-			for (int i = 1; i <= N; i++) {
-				for (int j = 1; j <= M; j++) {
-					temp[i][j] = map[i][j];
-				}
-			}
-			isVisited = new boolean[N + 2][M + 2];
-			for (int i = 1; i <= N; i++) {
-				for (int j = 1; j <= M; j++) {
-					if (!isVisited[i][j]&&temp[i][j] == 2) {
-						isVisited[i][j]=true;
-						virus(i,j);
-					}
-				}
-			}
-			for (int k = 1; k <= N; ++k) {
-				for (int l = 1; l <= M; ++l) {
-					if (temp[k][l] == 0)
-						count++;
-				}
-			}
-			if(max<count)max=count;
-			count=0;
-		}
-		else {
-			for (int i = 1; i <= N; ++i) {
-				for (int j = 1; j <= M; ++j) {
-					if (map[i][j] == 0) {
-						map[i][j] = 1;
-						dfs(i, j, cnt+1);
-					}
-				}
+	public static void dfs(int r, int c) {
+		for(int i=0;i<4;++i) {
+			int nr=r+dr[i];
+			int nc=c+dc[i];
+			if(map[nr][nc]==0) {
+				map[nr][nc]=2;
+				dfs(nr,nc);
 			}
 		}
-		map[r][c] = 0;
 	}
-	public static void virus(int r, int c) {
-		for (int k = 0; k < 4; ++k) {
-			int nr = r + dirx[k];
-			int nc = c + diry[k];
-			if (!isVisited[nr][nc] && temp[nr][nc] == 0) {
-				isVisited[nr][nc] = true;
-				temp[nr][nc] = 2;
-				virus(nr,nc);
+	public static void getSafe() {
+		int cnt=0;
+		for(Node n:virus) {
+			dfs(n.r,n.c);
+		}
+		for(int i=1;i<=N;++i) {
+			for(int j=1;j<=M;++j) {
+				if(map[i][j]==0)cnt++;
 			}
+		}
+		max=Math.max(cnt, max);
+		for(Node n:bean) {
+			map[n.r][n.c]=0;
+		}
+	}
+	public static class Node{
+		int r;
+		int c;
+		public Node(int r, int c) {
+			this.r=r;
+			this.c=c;
 		}
 	}
 }
