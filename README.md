@@ -119,6 +119,7 @@
 >       * :1st_place_medal::five: [14500 테트로미노](BAEKJOON/Main_14500_테트로미노.java)
 >       * :1st_place_medal::five: [15683 감시](BAEKJOON/Main_15683_감시.java)
 >       * :1st_place_medal::five: [15686 치킨 배달](BAEKJOON/Main_15686_치킨배달.java)
+>       * :1st_place_medal::four: [1062 가르침](BAEKJOON/Main_1062_가르침.java)
 >       * :1st_place_medal::four: [17281 baseball](BAEKJOON/Main_17281_baseball.java)
 >       * :1st_place_medal::four: [17406 배열 돌리기 4](BAEKJOON/Main_17406_배열돌리기4.java)
 >       * :1st_place_medal::three: [17472 다리 만들기 2](BAEKJOON/Main_17472_다리만들기2.java)
