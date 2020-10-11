@@ -41,6 +41,7 @@
 >       * :1st_place_medal::three: [17244 아맞다우산](BAEKJOON/Main_17244_아맞다우산.java)
 >       * :1st_place_medal::two: [13460 구슬 탈출 2](BAEKJOON/Main_13460_구슬탈출2.java)
 >       * :1st_place_medal::one: [1175 배달](BAEKJOON/Main_1175_배달.java)
+>       * :1st_place_medal::one: [1194 달이 차오른다 가자](BAEKJOON/Main_1194_달이차오른다가자.java)
 >       * :1st_place_medal::one: [9328 열쇠](BAEKJOON/Main_9328_열쇠.java)
 >       * :trophy::five: [1559 놀라운 미로](BAEKJOON/Main_1559_놀라운미로.java)
 >
