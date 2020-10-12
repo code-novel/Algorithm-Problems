@@ -163,6 +163,7 @@
 >   * 백트래킹(Back-Tracking)
 >       * :2nd_place_medal::three: [15649 N과M1](BAEKJOON/Main_15649_N과M1.java)
 >       * :1st_place_medal::five: [9663 N-Queen](BAEKJOON/Main_9663_NQueen.java)
+>       * :1st_place_medal::three: [1941 소문난 칠공주](BAEKJOON/Main_1941_소문난칠공주.java)
 >       * :1st_place_medal::three: [17136 색종이붙이기](BAEKJOON/Main_17136_색종이붙이기.java)
 >       * :1st_place_medal::three: [19236 청소년 상어](BAEKJOON/Main_19236_청소년상어.java)
 >
