@@ -199,7 +199,8 @@
 >       * :1st_place_medal::three: [18500 미네랄2](BAEKJOON/Main_18500_미네랄2.java)
 >       * :1st_place_medal::one: [5373 큐빙](BAEKJOON/Main_5373_큐빙.java)
 >
->   * Permutation(조합)
+>   * Combination(순열)&Permutation(조합)
+>       * :2nd_place_medal::three: [15650 N과M2](BAEKJOON/Main_15650_N과M2.java)
 >       * :2nd_place_medal::three: [15654 N과M5](BAEKJOON/Main_15654_N과M5.java)
 >
 >   * Two Pointer(투포인터)
