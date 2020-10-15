@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Main {
+public class Main_15650_N과M2 {
 		static int N,R;
 		static int[] numbers; // R개의 수
 		public static void main(String[] args) {
