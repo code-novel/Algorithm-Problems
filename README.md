@@ -47,6 +47,7 @@
 >
 >   * DFS(깊이우선탐색)
 >       * :2nd_place_medal::two: [1012 유기농배추](BAEKJOON/Main_1012_유기농배추.java)
+>       * :2nd_place_medal::two: [1260 DFS와 BFS](BAEKJOON_PY/1260_DFS와BFS.py)
 >       * :2nd_place_medal::one: [2667 단지번호붙이기](BAEKJOON/Main_2667_단지번호붙이기_DFS.java)
 >       * :1st_place_medal::five: [3055 탈출](BAEKJOON/Main_3055_탈출.java)
 >       * :1st_place_medal::five: [14502 연구소](BAEKJOON/Main_14502_연구소.java)
