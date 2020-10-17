@@ -14,6 +14,7 @@
 :four: lv4 `:four:`  
 :five: lv5 `:five:`  
 
+Java와 Python으로 나눌 예정
 * BAEKJOON
 >   * 정렬(Sort)
 >       * :2nd_place_medal::four: [1026 보물](BAEKJOON/Main_1026_보물.java)
