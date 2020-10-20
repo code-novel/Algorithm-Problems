@@ -209,6 +209,7 @@ Java와 Python으로 나눌 예정
 >
 >   * Two Pointer(투포인터)
 >       * :2nd_place_medal::one: [15961 회전 초밥](BAEKJOON/Main_2531_회전초밥.java)
+>       * :2nd_place_medal::one: [20055 컨베이어 벨트 위의 로봇](BAEKJOON/Main_20055_컨베이어벨트위의로봇.java)
 >       * :1st_place_medal::five: [15961 회전 초밥](BAEKJOON/Main_15961_회전초밥.java)
 >       * :1st_place_medal::three: [1806 부분합](BAEKJOON/Main_1806_부분합.java)
 >
