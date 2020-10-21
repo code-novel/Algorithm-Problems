@@ -137,6 +137,7 @@ Java와 Python으로 나눌 예정
 >
 >   * 이분 탐색(Binary Search)
 >       * :2nd_place_medal::four: [1920 수 찾기](BAEKJOON/Main_1920_수찾기.java)
+>       * :1st_place_medal::four: [20058 마법사 상어와 파이어스톰](BAEKJOON/Main_20058_마법사상어와파이어스톰.java)
 >       * :trophy::five: [16566 카드 게임](BAEKJOON/Main_16566_카드게임.java)
 >
 >   * 분할 정복
