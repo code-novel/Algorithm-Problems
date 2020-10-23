@@ -90,6 +90,7 @@ Java와 Python으로 나눌 예정
 >       * :1st_place_medal::five: [3190 뱀](BAEKJOON/Main_3190_뱀.java)
 >       * :1st_place_medal::five: [14499 주사위 굴리기](BAEKJOON/Main_14499_주사위굴리기.java)
 >       * :1st_place_medal::five: [16236 아기 상어](BAEKJOON/Main_16236_아기상어.java)
+>       * :1st_place_medal::five: [20056 마법사 상어와 파이어볼](BAEKJOON/Main_20056_마법사상어와파이어볼.java)
 >       * :1st_place_medal::four: [8972 미친 아두이노](BAEKJOON/Main_8972_아두이노.java)
 >       * :1st_place_medal::four: [16235 나무 재테크](BAEKJOON/Main_16235_나무재테크.java)
 >       * :1st_place_medal::four: [20057 마법상어와 토네이도](BAEKJOON/Main_20057_마법상어와토네이도.java)
