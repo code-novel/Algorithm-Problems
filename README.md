@@ -15,6 +15,8 @@
 :five: lv5 `:five:`  
 
 Java와 Python으로 나눌 예정
+BAEKJOON/SWEA/프로그래머스로 나눌 예정
+
 * BAEKJOON
 >   * 정렬(Sort)
 >       * :2nd_place_medal::four: [1026 보물](BAEKJOON/Main_1026_보물.java)
@@ -224,7 +226,8 @@ Java와 Python으로 나눌 예정
 >
 >* SWEA(SoftWare Expert Academy)
 >
-> *
+>   * [1953 탈주범검거](SWEA/Solution_1953_탈주범검거.java)
+>
 >
 * 프로그래머스
 >
