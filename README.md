@@ -226,7 +226,8 @@ BAEKJOON/SWEA/프로그래머스로 나눌 예정
 >
 >* SWEA(SoftWare Expert Academy)
 >
->   * [1953 탈주범검거](SWEA/Solution_1953_탈주범검거.java)
+>   * [1953 탈주범 검거](SWEA/Solution_1953_탈주범검거.java)
+>   * D4 [4261 빠른 휴대전화 키패드](SWEA/Solution_4261_빠른휴대전화키패드.java)
 >
 >
 * 프로그래머스
