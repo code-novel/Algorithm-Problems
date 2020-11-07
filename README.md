@@ -232,6 +232,7 @@ BAEKJOON/SWEA/프로그래머스로 나눌 예정
 >   * [4013 특이한 자석](SWEA/Solution_4013_특이한자석.java)
 >   * D4 [4261 빠른 휴대전화 키패드](SWEA/Solution_4261_빠른휴대전화키패드.java)
 >   * D4 [4301 콩 많이 심기](SWEA/Solution_4301_콩많이심기.java)
+>   * D4 [4366 정식이의 은행업무](SWEA/Solution_4366_정식이의은행업무.java)
 >   * D4 [4613 러시아 국기 같은 깃발](SWEA/Solution_4613_러시아국기같은깃발.java)
 >   * [5658 보물상자 비밀번호](SWEA/Solution_5658_보물상자비밀번호.java)
 >   * D4 [5672 올해의 조련사](SWEA/Solution_5672_올해의조련사.java)
