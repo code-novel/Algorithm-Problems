@@ -229,6 +229,7 @@ BAEKJOON/SWEA/프로그래머스로 나눌 예정
 >   * D4 [1868 파핑파핑 지뢰찾기](SWEA/Solution_1868_파핑파핑지뢰찾기.java)
 >   * [1953 탈주범 검거](SWEA/Solution_1953_탈주범검거.java)
 >   * [2105 디저트 카페](SWEA/Solution_2105_디저트카페.java)
+>   * D3 [3307 최장 증가 부분 수열](SWEA/Solution_3307_최장증가부분수열.java)
 >   * [4013 특이한 자석](SWEA/Solution_4013_특이한자석.java)
 >   * D4 [4261 빠른 휴대전화 키패드](SWEA/Solution_4261_빠른휴대전화키패드.java)
 >   * D4 [4301 콩 많이 심기](SWEA/Solution_4301_콩많이심기.java)
