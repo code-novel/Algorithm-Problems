@@ -227,6 +227,7 @@ BAEKJOON/SWEA/프로그래머스로 나눌 예정
 >* SWEA(SoftWare Expert Academy)
 >
 >   * D4 [1868 파핑파핑 지뢰찾기](SWEA/Solution_1868_파핑파핑지뢰찾기.java)
+>   * D3 [1873 상호의 배틀필드](SWEA/Solution_1873_상호의배틀필드.java)
 >   * [1953 탈주범 검거](SWEA/Solution_1953_탈주범검거.java)
 >   * [2105 디저트 카페](SWEA/Solution_2105_디저트카페.java)
 >   * D3 [3307 최장 증가 부분 수열](SWEA/Solution_3307_최장증가부분수열.java)
