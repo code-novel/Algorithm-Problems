@@ -4,7 +4,7 @@ import java.io.InputStreamReader;
 import java.util.Arrays;
 import java.util.StringTokenizer;
  
-public class Solution {
+public class Solution_1244_최대상금 {
     static int N;
     static int []arr;
     static int ans=0;
