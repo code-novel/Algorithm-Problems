@@ -226,6 +226,7 @@ BAEKJOON/SWEA/프로그래머스로 나눌 예정
 >
 >* SWEA(SoftWare Expert Academy)
 >
+>   * D4 [1233 사칙연산 유효성 검사](SWEA/Solution_1233_사칙연산유효성검사.java)
 >   * D3 [1240 단순 2진 암호 코드](SWEA/Solution_1240_단순2진암호코드.java)
 >   * D3 [1244 최대 상금](SWEA/Solution_1244_최대상금.java)
 >   * D4 [1258 행렬찾기](SWEA/Solution_1258_행렬찾기.java)
