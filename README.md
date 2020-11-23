@@ -224,6 +224,7 @@ BAEKJOON/SWEA/프로그래머스로 나눌 예정
 >   * 누적합
 >       * :1st_place_medal::one: [2532 피자판매](BAEKJOON/Main_2532_피자판매.java)
 >
+>
 >* SWEA(SoftWare Expert Academy)
 >
 >   * D4 [1233 사칙연산 유효성 검사](SWEA/Solution_1233_사칙연산유효성검사.java)
@@ -246,7 +247,7 @@ BAEKJOON/SWEA/프로그래머스로 나눌 예정
 >   * D4 [5672 올해의 조련사](SWEA/Solution_5672_올해의조련사.java)
 >   * D4 [6109 추억의 2048게임](SWEA/Solution_6109_추억의2048게임.java)
 >   * D4 [6719 성수의 프로그래밍 강좌 시청](SWEA/Solution_6719_성수의프로그래밍강좌시청.java)
->   * D3 [7272 안경이없어!](SWEA/Solution_8457_알덴테스파게티.java)
+>   * D3 [7272 안경이 없어!](SWEA/Solution_7272_안경이없어.java)
 >   * D3 [8457 알 덴테 스파게티](SWEA/Solution_8457_알덴테스파게티.java)
 >
 >
