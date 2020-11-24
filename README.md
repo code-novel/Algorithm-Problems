@@ -224,7 +224,6 @@ BAEKJOON/SWEA/프로그래머스로 나눌 예정
 >   * 누적합
 >       * :1st_place_medal::one: [2532 피자판매](BAEKJOON/Main_2532_피자판매.java)
 >
->
 >* SWEA(SoftWare Expert Academy)
 >
 >   * D4 [1233 사칙연산 유효성 검사](SWEA/Solution_1233_사칙연산유효성검사.java)
